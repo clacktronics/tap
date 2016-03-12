@@ -151,7 +151,13 @@
       "shapes":
       [
 	{
-	  "layers": ["top", "bottom"],
+	  "layers": ["top"],
+	  "type": "circle",
+	  "outline": 0,
+	  "diameter": 1.5 
+	},
+	{
+	  "layers": ["bottom"],
 	  "type": "circle",
 	  "outline": 0,
 	  "diameter": 1.9 

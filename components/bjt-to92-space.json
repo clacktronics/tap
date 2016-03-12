@@ -60,9 +60,14 @@
       "shapes":
       [
         {
-	  "layers": ["top", "bottom"],
+	  "layers": ["top"],
           "type": "circle",
-          "diameter": 1.3
+          "diameter": 1.1
+        },
+        {
+	  "layers": ["bottom"],
+          "type": "circle",
+          "diameter": 1.5
         }
       ],
       "drills":

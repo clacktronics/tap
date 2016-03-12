@@ -39,7 +39,13 @@
       "shapes":
       [
 	{
-	  "layers": ["top", "bottom"],
+	  "layers": ["top"],
+	  "type": "circle",
+	  "outline": 0,
+	  "diameter": 1.4 
+	},
+	{
+	  "layers": ["bottom"],
 	  "type": "circle",
 	  "outline": 0,
 	  "diameter": 1.9 
