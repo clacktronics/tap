@@ -94,8 +94,8 @@
       "footprint": "hole-3p1mm", 
       "layer": "top", 
       "location": [
-        -35.678673, 
-        18.458883
+        -37.045245, 
+        19.587771
       ], 
       "rotation": 0, 
       "show": true, 
@@ -109,8 +109,8 @@
       "footprint": "hole-3p1mm", 
       "layer": "top", 
       "location": [
-        -35.678672, 
-        -18.441776
+        -37.045244, 
+        -19.570664
       ], 
       "rotate": 0, 
       "show": true, 
@@ -124,8 +124,8 @@
       "footprint": "hole-3p1mm", 
       "layer": "top", 
       "location": [
-        35.699465, 
-        18.458224
+        37.066037, 
+        19.587112
       ], 
       "rotation": 0, 
       "show": true, 
@@ -139,8 +139,8 @@
       "footprint": "hole-3p1mm", 
       "layer": "top", 
       "location": [
-        35.699464, 
-        -18.441117
+        37.066036, 
+        -19.570005
       ], 
       "rotate": 0, 
       "show": true, 
