@@ -300,7 +300,7 @@
       "layer": "top", 
       "location": [
         11.121689, 
-        4.153046
+        3.024157
       ], 
       "rotate": 90, 
       "show": true, 
@@ -315,7 +315,7 @@
       "layer": "top", 
       "location": [
         15.121687, 
-        4.153046
+        3.024157
       ], 
       "rotate": 90, 
       "show": true, 
@@ -330,7 +330,7 @@
       "layer": "top", 
       "location": [
         -11.100895, 
-        4.153046
+        3.024157
       ], 
       "rotate": 90, 
       "show": true, 
@@ -345,7 +345,7 @@
       "layer": "top", 
       "location": [
         -15.100895, 
-        4.153046
+        3.024157
       ], 
       "rotate": 90, 
       "show": true, 
@@ -509,7 +509,7 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        4.325992, 
+        3.761548, 
         13.566751
       ], 
       "rotate": 180, 
@@ -524,7 +524,7 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -4.305195, 
+        -3.740751, 
         13.566751
       ], 
       "rotate": 180, 
@@ -584,8 +584,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        4.325992, 
-        8.44223
+        3.761548, 
+        6.748897
       ], 
       "rotate": 180, 
       "show": true, 
@@ -599,7 +599,7 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        4.325992, 
+        3.761548, 
         0.030428
       ], 
       "rotate": 180, 
@@ -614,8 +614,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -4.305195, 
-        8.44223
+        -3.740751, 
+        6.748897
       ], 
       "rotate": 180, 
       "show": true, 
@@ -629,7 +629,7 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -4.305195, 
+        -3.740751, 
         0.031087
       ], 
       "rotate": 180, 
