@@ -151,7 +151,7 @@
       }
     }, 
     "IC1": {
-      "footprint": "7pin-ic-dip", 
+      "footprint": "14pin-ic-dip", 
       "layer": "top", 
       "location": [
         24.410576, 
@@ -166,7 +166,7 @@
       }
     }, 
     "IC2": {
-      "footprint": "7pin-ic-dip", 
+      "footprint": "14pin-ic-dip", 
       "layer": "top", 
       "location": [
         -24.389783, 
@@ -193,21 +193,6 @@
         19.775635
       ], 
       "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "J11": {
-      "footprint": "usb-type-a-male-WM17117", 
-      "layer": "top", 
-      "location": [
-        -99.106671, 
-        0
-      ], 
-      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -497,7 +482,7 @@
         35.699465, 
         0.031087
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -512,7 +497,7 @@
         12.957171, 
         13.566751
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -527,7 +512,7 @@
         4.325992, 
         13.566751
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -542,7 +527,7 @@
         -4.305195, 
         13.566751
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -557,7 +542,7 @@
         -12.936379, 
         13.566751
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -572,7 +557,7 @@
         -26.647559, 
         19.775635
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -587,7 +572,7 @@
         35.699465, 
         -5.697129
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -602,7 +587,7 @@
         4.325992, 
         8.44223
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -617,7 +602,7 @@
         4.325992, 
         0.030428
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -632,7 +617,7 @@
         -4.305195, 
         8.44223
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -647,7 +632,7 @@
         -4.305195, 
         0.031087
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -662,7 +647,7 @@
         -35.678672, 
         -5.697788
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -692,7 +677,7 @@
         26.668352, 
         19.775635
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
