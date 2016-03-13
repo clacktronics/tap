@@ -19,8 +19,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -33.678676, 
-        8.441576
+        -32.549788, 
+        0.539353
       ], 
       "rotate": 90, 
       "show": true, 
@@ -180,19 +180,79 @@
         }
       }
     }, 
-    "J100": {
+    "J1": {
       "assembly": {
         "refdef": {
           "show": true
         }
       }, 
-      "footprint": "1x16-2p54", 
+      "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        0.141654, 
+        -20, 
         19.775635
       ], 
       "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J2": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        0, 
+        19.775635
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J3": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        20, 
+        19.775635
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J4": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        40, 
+        0
+      ], 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -270,7 +330,7 @@
       "layer": "top", 
       "location": [
         37.699464, 
-        8.441576
+        0.539353
       ], 
       "rotate": 90, 
       "show": true, 
@@ -284,8 +344,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        33.699465, 
-        8.441576
+        32.570577, 
+        0.539353
       ], 
       "rotate": 90, 
       "show": true, 
@@ -300,7 +360,7 @@
       "layer": "top", 
       "location": [
         11.121689, 
-        3.024157
+        6.410823
       ], 
       "rotate": 90, 
       "show": true, 
@@ -315,7 +375,7 @@
       "layer": "top", 
       "location": [
         15.121687, 
-        3.024157
+        6.410823
       ], 
       "rotate": 90, 
       "show": true, 
@@ -330,7 +390,7 @@
       "layer": "top", 
       "location": [
         -11.100895, 
-        3.024157
+        2.459712
       ], 
       "rotate": 90, 
       "show": true, 
@@ -345,7 +405,7 @@
       "layer": "top", 
       "location": [
         -15.100895, 
-        3.024157
+        2.459712
       ], 
       "rotate": 90, 
       "show": true, 
@@ -450,7 +510,7 @@
       "layer": "top", 
       "location": [
         -37.678669, 
-        8.441576
+        0.539353
       ], 
       "rotate": 90, 
       "show": true, 
@@ -479,8 +539,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        35.699465, 
-        0.031087
+        34.570577, 
+        -8.435579
       ], 
       "rotate": 180, 
       "show": true, 
@@ -494,7 +554,7 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        12.957171, 
+        34.970503, 
         13.566751
       ], 
       "rotate": 180, 
@@ -540,7 +600,7 @@
       "layer": "top", 
       "location": [
         -12.936379, 
-        13.566751
+        15.260083
       ], 
       "rotate": 180, 
       "show": true, 
@@ -554,8 +614,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -26.647559, 
-        19.775635
+        -13.100895, 
+        10.18008
       ], 
       "rotate": 180, 
       "show": true, 
@@ -569,8 +629,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        35.699465, 
-        -5.697129
+        34.570577, 
+        -14.163793
       ], 
       "rotate": 180, 
       "show": true, 
@@ -644,8 +704,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -35.678672, 
-        -5.697788
+        -34.549784, 
+        -14.164452
       ], 
       "rotate": 180, 
       "show": true, 
@@ -659,8 +719,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -35.678673, 
-        0.030428
+        -34.549785, 
+        -8.436238
       ], 
       "rotate": 0, 
       "show": true, 
@@ -674,8 +734,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        26.668352, 
-        19.775635
+        35.135016, 
+        8.486746
       ], 
       "rotate": 180, 
       "show": true, 
@@ -788,7 +848,7 @@
         "tr": 2.5
       }, 
       "type": "rect", 
-      "width": 80
+      "width": 84
     }
   }, 
   "physical": {
