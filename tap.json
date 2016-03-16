@@ -189,7 +189,7 @@
       "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        4.271109, 
+        -7.01778, 
         20.340079
       ], 
       "rotate": 0, 
@@ -209,7 +209,7 @@
       "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        14.675552, 
+        9.031107, 
         20.340079
       ], 
       "rotate": 0, 
