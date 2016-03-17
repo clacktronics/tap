@@ -260,21 +260,6 @@
         }
       }
     }, 
-    "J77": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -101.98366, 
-        -23.666173
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "JMP1": {
       "assembly": {
         "refdef": {
@@ -385,7 +370,7 @@
         }
       }
     }, 
-    "R14": {
+    "R15": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -400,7 +385,7 @@
         }
       }
     }, 
-    "R15": {
+    "R14": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -557,22 +542,7 @@
         25.054248, 
         14.687408
       ], 
-      "rotate": 180, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T11": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        13.741953, 
-        14.687408
-      ], 
-      "rotate": 180, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -584,10 +554,10 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        2.42966, 
+        13.741953, 
         14.687408
       ], 
-      "rotate": 180, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -595,7 +565,22 @@
         }
       }
     }, 
-    "T13": {
+    "T11": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        2.42966, 
+        14.687408
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T14": {
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
@@ -610,14 +595,14 @@
         }
       }
     }, 
-    "T14": {
+    "T13": {
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
         -20.194935, 
         14.687401
       ], 
-      "rotate": 180, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -647,7 +632,7 @@
         1.74751, 
         7.869556
       ], 
-      "rotate": 180, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -707,7 +692,7 @@
         -34.306046, 
         -12.479351
       ], 
-      "rotate": 180, 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -858,14 +843,24 @@
     ]
   }, 
   "shapes": {
-    "LOGO": {
-      "footprint": "boldport-logo-b", 
-      "layer": "bottom", 
+    "BP-LOGO": {
+      "footprint": "boldport-logo-b-anti", 
+      "layer": "top", 
       "location": [
-        -103.50462, 
-        28.363497
+        -27.304624, 
+        17.639053
       ], 
-      "rotation": 0, 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "EK-LOGO": {
+      "footprint": "old-elektor-logo-anti", 
+      "layer": "top", 
+      "location": [
+        37.709071, 
+        3.048889
+      ], 
+      "rotate": 90, 
       "show": true
     }
   }
