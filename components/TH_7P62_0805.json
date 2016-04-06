@@ -42,7 +42,8 @@
 	  "layers": ["top"],
 	  "type": "circle",
 	  "outline": 0,
-	  "diameter": 1.4 
+	  "diameter": 1.4,
+          "soldermask": {}
 	},
 	{
 	  "layers": ["bottom"],
