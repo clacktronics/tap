@@ -95,7 +95,7 @@
       "layer": "top", 
       "location": [
         -36.8, 
-        19.25
+        20.842211
       ], 
       "rotation": 0, 
       "show": true, 
@@ -110,7 +110,7 @@
       "layer": "top", 
       "location": [
         -36.8, 
-        -19.25
+        -20.741087
       ], 
       "rotate": 0, 
       "show": true, 
@@ -125,7 +125,7 @@
       "layer": "top", 
       "location": [
         36.8, 
-        19.25
+        20.842211
       ], 
       "rotation": 0, 
       "show": true, 
@@ -140,7 +140,7 @@
       "layer": "top", 
       "location": [
         36.8, 
-        -19.25
+        -20.741087
       ], 
       "rotate": 0, 
       "show": true, 
@@ -186,10 +186,10 @@
           "show": true
         }
       }, 
-      "footprint": "1x5-2p54", 
+      "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        23.871112, 
+        25.141112, 
         20.340079
       ], 
       "rotate": 0, 
@@ -206,10 +206,10 @@
           "show": true
         }
       }, 
-      "footprint": "1x5-2p54", 
+      "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        7.871111, 
+        9.141111, 
         20.340079
       ], 
       "rotate": 0, 
@@ -226,10 +226,10 @@
           "show": true
         }
       }, 
-      "footprint": "1x5-2p54", 
+      "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        -8.128889, 
+        -6.858889, 
         20.340079
       ], 
       "rotate": 0, 
@@ -246,11 +246,31 @@
           "show": true
         }
       }, 
-      "footprint": "1x5-2p54", 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        -22.858889, 
+        20.340079
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J5": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
         37.421518, 
-        -9.603786
+        -10.873786
       ], 
       "rotate": 90, 
       "show": true, 
@@ -315,7 +335,7 @@
       "layer": "top", 
       "location": [
         32.298762, 
-        3.015927
+        2.451483
       ], 
       "rotate": 90, 
       "show": true, 
@@ -786,7 +806,7 @@
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top (white), bottom (white)\nSoldermask: top (green), bottom (green)\nSurface finish: lead free"
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: none\nSoldermask: top (transparent), bottom (transparent)\nSurface finish: lead free organic"
     }, 
     "pcbmode": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -825,7 +845,7 @@
       "scale": 0.0008
     }, 
     "shape": {
-      "height": 45, 
+      "height": 48, 
       "radii": {
         "bl": 2.5, 
         "br": 2.5, 
@@ -848,7 +868,7 @@
       "layer": "top", 
       "location": [
         -27.304624, 
-        17.639053
+        15.726619
       ], 
       "rotate": 0, 
       "show": true
@@ -857,10 +877,20 @@
       "footprint": "old-elektor-logo-anti", 
       "layer": "top", 
       "location": [
-        37.709071, 
+        36.976092, 
         4.177778
       ], 
       "rotate": 90, 
+      "show": true
+    }, 
+    "SMPADS": {
+      "footprint": "soldermask", 
+      "layer": "top", 
+      "location": [
+        -0.564444, 
+        -20.404451
+      ], 
+      "rotate": 0, 
       "show": true
     }
   }
