@@ -6,6 +6,7 @@
       "shapes":
       [
         {
+          "layers": ["top", "bottom"],
           "location": [
             0,0
           ], 
