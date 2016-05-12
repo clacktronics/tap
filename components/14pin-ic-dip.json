@@ -170,7 +170,11 @@
 	  "type": "circle",
 	  "outline": 0,
 	  "diameter": 1.2,
-          "soldermask": {} 
+          "soldermask": {
+  	    "type": "circle",
+	    "outline": 0,
+	    "diameter": 1.1
+          } 
 	},
 	{
 	  "layers": ["bottom"],
@@ -196,7 +200,12 @@
           "width": 1.2,
           "height": 1.2,
           "radii": {"tl": 0, "tr": 0, "bl": 0.75, "br": 0},
-          "soldermask": {}
+          "soldermask": {
+  	    "type": "rect",
+            "width": 1.1,
+            "height": 1.1,
+            "radii": {"tl": 0, "tr": 0, "bl": 0.25, "br": 0}
+          }
 	},
 	{
 	  "layers": ["bottom"],

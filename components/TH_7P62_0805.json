@@ -43,7 +43,11 @@
 	  "type": "circle",
 	  "outline": 0,
 	  "diameter": 1.4,
-          "soldermask": {}
+          "soldermask": {
+	    "type": "circle",
+	    "outline": 0,
+	    "diameter": 1.4
+          }
 	},
 	{
 	  "layers": ["bottom"],
